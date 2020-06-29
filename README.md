@@ -1,5 +1,5 @@
-# Technologies used
-# Java8,Springboot,Hibernate,Jpa,Mysql,RestApi,JUnit,Mockito
+## Technologies used
+### Java8,Springboot,Hibernate,Jpa,Mysql,RestApi,JUnit,Mockito
 
-# Tools Used
-# SpringToolSuit(STS),Postman(for API testing)
+## Tools Used
+### SpringToolSuit(STS),Postman(for API testing)
